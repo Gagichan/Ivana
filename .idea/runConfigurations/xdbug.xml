@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="xdbug" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="Appace" start_url="/IvanaPhPproject">
+    <method />
+  </configuration>
+</component>
